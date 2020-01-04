@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.xiangtailiang:tablayout:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/19d5875f1eaa800da2d81777fcd8b15b/jetified-tablayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/19d5875f1eaa800da2d81777fcd8b15b/jetified-tablayout-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.xiangtailiang/tablayout/1.0.0/f36b9208f190f22c5bd200aaad9a454d97f4c63/tablayout-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,3 @@
+include ':app', ':banner1'
+rootProject.name='Elearining'
+include ':ScrollViewContainer'

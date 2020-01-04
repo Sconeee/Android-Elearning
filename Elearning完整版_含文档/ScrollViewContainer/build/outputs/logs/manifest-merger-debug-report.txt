@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\a9c24a9798b2375417f09fd00c041600\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\5def726a0135a103c1aacd891011bf78\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\eb183990040cfbbdd3c867a198e0eccb\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\24eae31f885f7d8295a34104894119c2\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\184e16c5f436aa5ff5bbf093b94d38e4\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\4b733834fc7eb0165f2e251fc4e524bb\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\593cea9c3d51ea1f283050e243fc810b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\b44dcd4dc13a8c587119e97f2e11d2c0\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\7d990feab779997c3ca9cfed483b48bb\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\9dc9d6aa6b78149204f159752b33dec4\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\bca102afdbdbef486491857ecc5fa50a\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\d7abf3511a3ae04cce8193eb50d8cd0c\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\b6930d01bad5b0ba00941539b23cec4a\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\976a201a53f0449d7e1a0bf9f3ced109\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\6213e31c4de8926ba710c8be85af45e0\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\f1d1c47ea40e0b71352366a33688f54a\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\a57b62f25137da763fca3ef8db24f9b4\core-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\faf0abfd2276035318ad175b01ed51dd\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\4c62d27d764baf32f53824973368d44f\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\e973edc729f36915eb13a970da9bce1e\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\1626542c650d9ef9642110745f2d596e\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\91c653a1a3de69e75da5608d41df218e\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\0a0fcb6c7ff5da3d43e7b17b0695376e\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\76ad8b6738522cdfa585caf797acbe81\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\9bf8aca183db6ed3db7e3039fe880117\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\9ebacf32180c5fadf9b6f31f16fe9d75\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\43db383d68d82da1475369ca90e371d6\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\4bdd095c8ea7b0bc8c0bb33ebc9a55ed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml
+		INJECTED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml
+		INJECTED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml
+		INJECTED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml
+application
+ADDED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:9:5-23:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\a57b62f25137da763fca3ef8db24f9b4\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\a57b62f25137da763fca3ef8db24f9b4\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\faf0abfd2276035318ad175b01ed51dd\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\faf0abfd2276035318ad175b01ed51dd\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\a57b62f25137da763fca3ef8db24f9b4\core-1.0.1\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:13:9-40
+activity#com.jingchen.tbviewer.MainActivity
+ADDED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:15:13-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml
+INJECTED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\a9c24a9798b2375417f09fd00c041600\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\a9c24a9798b2375417f09fd00c041600\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\5def726a0135a103c1aacd891011bf78\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\5def726a0135a103c1aacd891011bf78\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\eb183990040cfbbdd3c867a198e0eccb\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\eb183990040cfbbdd3c867a198e0eccb\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\24eae31f885f7d8295a34104894119c2\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\24eae31f885f7d8295a34104894119c2\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\184e16c5f436aa5ff5bbf093b94d38e4\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\184e16c5f436aa5ff5bbf093b94d38e4\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\4b733834fc7eb0165f2e251fc4e524bb\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\4b733834fc7eb0165f2e251fc4e524bb\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\593cea9c3d51ea1f283050e243fc810b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\593cea9c3d51ea1f283050e243fc810b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\b44dcd4dc13a8c587119e97f2e11d2c0\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\b44dcd4dc13a8c587119e97f2e11d2c0\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\7d990feab779997c3ca9cfed483b48bb\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\7d990feab779997c3ca9cfed483b48bb\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\9dc9d6aa6b78149204f159752b33dec4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\9dc9d6aa6b78149204f159752b33dec4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\bca102afdbdbef486491857ecc5fa50a\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\bca102afdbdbef486491857ecc5fa50a\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\d7abf3511a3ae04cce8193eb50d8cd0c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\d7abf3511a3ae04cce8193eb50d8cd0c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\b6930d01bad5b0ba00941539b23cec4a\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\b6930d01bad5b0ba00941539b23cec4a\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\976a201a53f0449d7e1a0bf9f3ced109\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\976a201a53f0449d7e1a0bf9f3ced109\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\6213e31c4de8926ba710c8be85af45e0\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\6213e31c4de8926ba710c8be85af45e0\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\f1d1c47ea40e0b71352366a33688f54a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\f1d1c47ea40e0b71352366a33688f54a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\a57b62f25137da763fca3ef8db24f9b4\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\a57b62f25137da763fca3ef8db24f9b4\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\faf0abfd2276035318ad175b01ed51dd\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\faf0abfd2276035318ad175b01ed51dd\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\4c62d27d764baf32f53824973368d44f\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\4c62d27d764baf32f53824973368d44f\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\e973edc729f36915eb13a970da9bce1e\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\e973edc729f36915eb13a970da9bce1e\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\1626542c650d9ef9642110745f2d596e\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\1626542c650d9ef9642110745f2d596e\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\91c653a1a3de69e75da5608d41df218e\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\91c653a1a3de69e75da5608d41df218e\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\0a0fcb6c7ff5da3d43e7b17b0695376e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\0a0fcb6c7ff5da3d43e7b17b0695376e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\76ad8b6738522cdfa585caf797acbe81\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\76ad8b6738522cdfa585caf797acbe81\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\9bf8aca183db6ed3db7e3039fe880117\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\9bf8aca183db6ed3db7e3039fe880117\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\9ebacf32180c5fadf9b6f31f16fe9d75\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\9ebacf32180c5fadf9b6f31f16fe9d75\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\43db383d68d82da1475369ca90e371d6\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\43db383d68d82da1475369ca90e371d6\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\4bdd095c8ea7b0bc8c0bb33ebc9a55ed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Scone\.gradle\caches\transforms-2\files-2.1\4bdd095c8ea7b0bc8c0bb33ebc9a55ed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml
+INJECTED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml
+		ADDED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml
+		INJECTED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml
+		ADDED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml
+		INJECTED from E:\App\Elearning\ScrollViewContainer\src\main\AndroidManifest.xml
